@@ -8,9 +8,9 @@ This project demonstrate the use of arduino uno controler with vibration sensor 
 - Resistors
 
 # Tools
--*Simulation* - Proteus 8
--*Design* - Breadboard, Jumper wires
--*Arduino program* - C++
+-**Simulation:** - Proteus 8
+-**Design:** - Breadboard, Jumper wires
+-**Arduino program:** - C++
 
 # How it works
 - The arduino controller take an input from the vibration sensor and control the LEDs and buzzer to signal alert.
